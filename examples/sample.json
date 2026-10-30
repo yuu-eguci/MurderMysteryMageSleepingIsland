@@ -1,0 +1,16 @@
+{
+  "games": [
+    {
+      "seats": ["PYTHON", "TASK", "MONITOR", "DB"],
+      "hp": -1,
+      "location": "RED",
+      "items": ["RED", "PURPLE"]
+    },
+    {
+      "seats": ["MONITOR", "PYTHON", "DB", "TASK"],
+      "hp": 0,
+      "location": "BLUE",
+      "items": ["GREEN", "BLUE"]
+    }
+  ]
+}
